@@ -1,0 +1,72 @@
+{
+	"spriteSheet": "animations",
+	"ver": "1.2",
+	"anims": [
+		{
+			"name": "ninja_mode",
+			"loops": "1",
+			"cells": [
+				{
+					"index": "0",
+					"delay": "2",
+					"spr": [{
+						"name": "/ninja_mode/0",
+						"x": "0",
+						"y": "-23",
+						"z": "0"
+					}]
+				},
+				{
+					"index": "1",
+					"delay": "2",
+					"spr": [{
+						"name": "/ninja_mode/1",
+						"x": "1",
+						"y": "-23",
+						"z": "0"
+					}]
+				},
+				{
+					"index": "2",
+					"delay": "2",
+					"spr": [{
+						"name": "/ninja_mode/2",
+						"x": "0",
+						"y": "-23",
+						"z": "0"
+					}]
+				},
+				{
+					"index": "3",
+					"delay": "2",
+					"spr": [{
+						"name": "/ninja_mode/3",
+						"x": "-1",
+						"y": "-23",
+						"z": "0"
+					}]
+				},
+				{
+					"index": "4",
+					"delay": "2",
+					"spr": [{
+						"name": "/ninja_mode/4",
+						"x": "-2",
+						"y": "-23",
+						"z": "0"
+					}]
+				},
+				{
+					"index": "5",
+					"delay": "2",
+					"spr": [{
+						"name": "/ninja_mode/5",
+						"x": "-3",
+						"y": "-23",
+						"z": "0"
+					}]
+				}
+			]
+		}
+	]
+}
